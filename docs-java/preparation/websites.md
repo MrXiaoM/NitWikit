@@ -376,6 +376,8 @@ MOTD 是玩家进入服务器之前最先看到的东西，决定了玩家对一
 > [MOTD creator](https://mctools.org/motd-creator)
 >
 > [Minecraft MOTD tool](https://minecraft.tools/en/motd.php)
+> 
+> [MineBBS MOTD 查询站](https://motd.minebbs.com/)
 
   </TabItem>
   <TabItem value="misode" label="数据包生成器">
