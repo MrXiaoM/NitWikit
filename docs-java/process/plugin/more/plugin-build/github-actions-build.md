@@ -80,7 +80,9 @@ jobs:
         distribution: 'adopt'
         
     - name: Build with Gradle
-      run: ./gradlew build
+      run: |
+        chmod +x gradlew
+        ./gradlew build
       
     - name: Upload artifact
       uses: actions/upload-artifact@v4
